@@ -2,7 +2,7 @@
 
 ---
 ## Table of Contents
-- Example
+- Examples of Entering User/Device Authorization
 - [Get License](#get-license)
 - [Read Vital in Range](#read-vital-in-range)
 - [Read Vital](#read-vital)
