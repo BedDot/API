@@ -1,32 +1,6 @@
 # HomeDots API Endpoints
 
-### Entering Device Authorization
-#### Authorization is done with a token that corresponds the MAC address
-
-Headers Field:
-
-![img_1.png](assets/img_1.png)
-
-Body and Response:
-
-![img.png](assets/img.png)
-
----
-
-### Entering User Authorization
-#### Authorization is done with a token that corresponds to their username
-
-Headers Field:
-
-![img_3.png](assets/img_3.png)
-
-Body and Response:
-
-![img_4.png](assets/img_4.png)
-
----
-
-### For Device use
+### APIs for Device
 
 <!-- Get License -->
 <details>
@@ -66,7 +40,7 @@ _Requires User Authorization:_ `Yes`
 ---
 </details>
 
-### For Client use
+### APIs for User
 
 <!-- Read Vital in Range -->
 <details>
@@ -147,3 +121,29 @@ _Requires User Authorization:_ `No`
 
 ---
 </details>
+
+### Entering Device Authorization
+#### Authorization is done with a token that corresponds the MAC address
+
+Headers Field:
+
+![img_1.png](assets/img_1.png)
+
+Body and Response:
+
+![img.png](assets/img.png)
+
+---
+
+### Entering User Authorization
+#### Authorization is done with a token that corresponds to their username
+
+Headers Field:
+
+![img_3.png](assets/img_3.png)
+
+Body and Response:
+
+![img_4.png](assets/img_4.png)
+
+---
