@@ -140,12 +140,13 @@ Body and Response:
 
 Headers Field:
 
-![img_3.png](assets/img_3.png)
+<img width="836" alt="image" src="https://github.com/BedDot/API/assets/21161935/762eb050-b2cf-471a-9fc0-c9a5a553b761">
+
+<img width="841" alt="image" src="https://github.com/BedDot/API/assets/21161935/5d15371b-8cea-475b-95e3-32b8823e1272">
+
 
 Body and Response:
 
-![img_4.png](assets/img_4.png)
-
-<img width="846" alt="image" src="https://github.com/BedDot/API/assets/21161935/31149eab-2823-4e94-a2a3-f219e4b7ae28">
+<img width="846" alt="image" src="https://github.com/BedDot/API/assets/21161935/d89b7434-0187-453b-999d-f7bb549da7ef">
 
 ---
