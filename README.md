@@ -2,8 +2,7 @@
 
 ---
 ## Table of Contents
-- [Default Route](#default-route)
-- [Check Status 2](#check-status-2)
+- Example
 - [Get License](#get-license)
 - [Read Vital in Range](#read-vital-in-range)
 - [Read Vital](#read-vital)
@@ -42,41 +41,6 @@ Returns a simple message indicating that the server is running.
 ---
 
 #### For Device use
-
-<!-- Check Status 2 -->
-<details>
- <summary><code>POST</code> <code><b>/checkStatus2</b></code> <code>Returns the InfluxDB credentials based on provided MAC address</code></summary>
-
-_Requires Device Authorization:_ `No` \
-_Requires User Authorization:_ `No`
-
-##### Body Parameters
-
-> | name  |  type     | data type | description                   |
-> |-------|-----------|-----------|-------------------------------|
-> | `mac` |  required | string    | The mac address of the device |
-
-##### Responses
-
-> | http code | content-type       | response                                                                                                                                                  |
-> |-----------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-> | `200`     | `application/json` | `{"result": {"collectQC": 1,"collectRaw": 1,"ip": "https://homedots.us","logLevel": "1","password": "<password>","status": 1,="username": "<username>"}}` |
-> | `404`     | `application/json` | `{"result": {"status": 0}}`                                                                                                                               |
-> | `400`     | `application/json` | `{'result': {'message': "Invalid MAC address (or other errors)"}}`                                                                                        |
-
-##### Example cURL
-
-> ```bash
-> curl --location 'https://homedots.us:3425/checkStatus2' \
-> --header 'Content-Type: application/json' \
-> --data '{
-> "mac": "00:00:00:00:00:88",
-> "version": "2020/09/06 22:58:46"
-> }'
-> ```
-
----
-</details>
 
 <!-- Get License -->
 <details>
