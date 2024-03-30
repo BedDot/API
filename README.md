@@ -30,17 +30,7 @@ Body and Response:
 
 ---
 
-## Default Route
-- Method: `GET`
-- Requires Device Authorization: `No`
-- Requires User Authorization: `No`
-- URL: `https://homedots.us:3425/`
-
-Returns a simple message indicating that the server is running.
-
----
-
-#### For Device use
+### For Device use
 
 <!-- Get License -->
 <details>
@@ -80,7 +70,7 @@ _Requires User Authorization:_ `Yes`
 ---
 </details>
 
-#### For Client use
+### For Client use
 
 <!-- Read Vital in Range -->
 <details>
