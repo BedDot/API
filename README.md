@@ -146,4 +146,6 @@ Body and Response:
 
 ![img_4.png](assets/img_4.png)
 
+<img width="846" alt="image" src="https://github.com/BedDot/API/assets/21161935/31149eab-2823-4e94-a2a3-f219e4b7ae28">
+
 ---
