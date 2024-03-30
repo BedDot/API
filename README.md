@@ -142,10 +142,9 @@ Headers Field:
 
 <img width="836" alt="image" src="https://github.com/BedDot/API/assets/21161935/762eb050-b2cf-471a-9fc0-c9a5a553b761">
 
-<img width="841" alt="image" src="https://github.com/BedDot/API/assets/21161935/5d15371b-8cea-475b-95e3-32b8823e1272">
-
-
 Body and Response:
+
+<img width="841" alt="image" src="https://github.com/BedDot/API/assets/21161935/5d15371b-8cea-475b-95e3-32b8823e1272">
 
 <img width="846" alt="image" src="https://github.com/BedDot/API/assets/21161935/d89b7434-0187-453b-999d-f7bb549da7ef">
 
