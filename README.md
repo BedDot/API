@@ -1,20 +1,14 @@
 # HomeDots API Endpoints
 
----
-## Table of Contents
-- Examples of Entering User/Device Authorization
-- [Get License](#get-license)
-- [Read Vital in Range](#read-vital-in-range)
-- [Read Vital](#read-vital)
-
----
 ### Entering Device Authorization
 #### Authorization is done with a token that corresponds the MAC address
 
 Headers Field:
+
 ![img_1.png](assets/img_1.png)
 
 Body and Response:
+
 ![img.png](assets/img.png)
 
 ---
@@ -23,9 +17,11 @@ Body and Response:
 #### Authorization is done with a token that corresponds to their username
 
 Headers Field:
+
 ![img_3.png](assets/img_3.png)
 
 Body and Response:
+
 ![img_4.png](assets/img_4.png)
 
 ---
