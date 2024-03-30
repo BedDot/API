@@ -122,7 +122,7 @@ _Requires User Authorization:_ `No`
 ---
 </details>
 
-### Entering Device Authorization
+### Example: Entering Device Authorization in Postman
 #### Authorization is done with a token that corresponds the MAC address
 
 Headers Field:
@@ -135,7 +135,7 @@ Body and Response:
 
 ---
 
-### Entering User Authorization
+### Example: Entering User Authorization in Postman
 #### Authorization is done with a token that corresponds to their username
 
 Headers Field:
