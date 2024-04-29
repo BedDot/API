@@ -81,6 +81,26 @@ _Requires User Authorization:_ `No`
 > "timestamp": 1686893432 }'
 > ```
 
+Example
+{
+  "mac": "b8:27:eb:96:cb:fc",
+  "version": "2020/09/06 22:58:46",
+  "vital_name": "heartrate",
+  "timestamp": 1686893432
+ }
+The vital_name are based on the schematics below
+{
+ "vitalMapping": {
+       "occupancy": ["vitals", "occupancy"],
+       "heartrate": ["vitals", "heartrate"],
+       "respirationrate": ["vitals", "respiratoryrate"],
+       "systolic": ["vitals", "systolic"],
+       "diastolic": ["vitals", "diastolic"],
+       "quality": ["vitals", "quality"],
+       "movement": ["vitals", "movement"],
+ }
+}
+
 ---
 </details>
 
